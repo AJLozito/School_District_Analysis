@@ -34,3 +34,11 @@ Scores by school type
 
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
      The Thomas High School results negatively impacted the survey as a whole. The school should test more often to reduce this occurrence. The school board should re-examine their funding process, as Charter schools tend to not get results. Thomas High School also needs to be examined.
+     
+
+Additionally:
+     I experienced issues loading and running my PyCitySchools.ipynb file. Please see the images below.
+
+![image](https://user-images.githubusercontent.com/96176817/151718656-a597b291-27f3-4b3f-9e97-0342cd7b7d40.png)
+
+![image](https://user-images.githubusercontent.com/96176817/151718681-6abef6bc-8672-4637-95a1-f2f2f198d21c.png)
