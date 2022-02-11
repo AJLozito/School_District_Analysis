@@ -3,10 +3,12 @@ This is a Jupyter Project.
 
 
 Overview
+
      The purpose of this project was to evaluate the validity of test scores, while also examining if the quantity of resources allocated to the schools affected their performance.
 
 
 Results
+
      There were no meaningful changes to the district, school summary, or relative rankings even after the 9th graders were replaced.
 ![image](https://user-images.githubusercontent.com/96176817/153522888-0f446395-06bc-4159-9422-04d8447fd3f8.png)
 
@@ -33,4 +35,5 @@ Excludes 9th Graders
 
 
 Summary
+
      The Thomas High School results barely impacted the survey as a whole. Most schools appear to spend more than they need to on students. All of the schools should exam their resource allocation process. The district schools should look to their charter school counterparts to learn about better organizational practices.
