@@ -1,44 +1,35 @@
 # School_District_Analysis
 This is a Jupyter Project.
 
+Overview
+     The purpose of this project was to evaluate the validity of test scores, while also examining if the quantity of resources allocated to the schools affected their performance.
 
-Overview of the school district analysis: Explain the purpose of this analysis.
-     The purpose of this project was to evaluate how much was being spent on schools, and what their resulting test scores were.
+Results
+     There were no meaningful changes to the district, school summary, or relative rankings even after the 9th graders were replaced.
+![image](https://user-images.githubusercontent.com/96176817/153522888-0f446395-06bc-4159-9422-04d8447fd3f8.png)
 
+ 
+Includes 9th Graders
+![image](https://user-images.githubusercontent.com/96176817/153522931-6a3b0a57-3bd0-4b48-945b-a8d195bb9431.png)
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+ 
+Excludes 9th Graders
+ ![image](https://user-images.githubusercontent.com/96176817/153522940-77c69125-79fb-421a-8199-91fb22498a71.png)
 
-How is the district summary affected?
-     The district results changed when the 9th graders were cut out of Thomas High School. The school dropped significantly in the rankings, indicating possible fraud.
-
-How is the school summary affected?
-     The school may have to be investigated.
-
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-     The 9th graders being replaced significantly lowered Thomas High School’s ranking.
-
-How does replacing the ninth-grade scores affect the following:
-
-Math and reading scores by grade
-     The scores only affected the overall school average.
-
-Scores by school spending
-     The trend seemed to be consistent, as the schools with more spending tended to have better results.
-
-Scores by school size
-     The larger the schools were, the more likely they were to have low test scores.
-
-Scores by school type
-    The larger Charter schools seemed to have the highest potential to be fraudulent.
+     Reading and Math scores are higher in grades 10-12.
 
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-     The Thomas High School results negatively impacted the survey as a whole. The school should test more often to reduce this occurrence. The school board should re-examine their funding process, as Charter schools tend to not get results. Thomas High School also needs to be examined.
-     
+ ![image](https://user-images.githubusercontent.com/96176817/153522955-15f99e80-ba89-4b43-8584-9d3d590c67b1.png)
 
-Additionally:
-     I experienced issues loading and running my PyCitySchools.ipynb file. Please see the images below.
+     Schools that spent less than $584 per student performed the highest.
 
-![image](https://user-images.githubusercontent.com/96176817/151718656-a597b291-27f3-4b3f-9e97-0342cd7b7d40.png)
 
-![image](https://user-images.githubusercontent.com/96176817/151718681-6abef6bc-8672-4637-95a1-f2f2f198d21c.png)
+
+ 
+     The Small and Medium schools performed better than the Large schools.
+
+ 
+    The Charter schools performed better than District Schools.
+
+Summary
+     The Thomas High School results barely impacted the survey as a whole. Most schools appear to spend more than they need to on students. All of the schools should exam their resource allocation process. The district schools should look to their charter school counterparts to learn about better organizational practices.
